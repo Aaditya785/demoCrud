@@ -17,7 +17,6 @@ import com.example.exception.ResourceNotFoundException;
 import com.example.model.crudEntity;
 import com.example.repo.CrudRepo;
 
-import jakarta.websocket.server.PathParam;
 
 public class CrudController {
     @Autowired
